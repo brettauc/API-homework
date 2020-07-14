@@ -3,9 +3,9 @@
 ### Budget Analysis
 Based on the budget analysis, Harold's customer has consistent monthly expenses of $10,645.24 which is being driven by the customer's transfer category spend. This is shown by the charts below (noting that April (4) and July (7) are expenses for only half of the month).
 
-![Expenses per month](/Images/per_month_expenses.jpg)  
+![Expenses per month](Images/per_month_expenses.jpg)  
 
-![spend_by category](/Images/Spend_by_Category.jpg)
+![spend_by category](Images/Spend_by_Category.jpg)
 
 The spend in the transfer category is made up of $5,850 per month to Gusto(a company that provides a cloud-based payroll, benefits, and human resource management software for businesses) and a $1,000 deposit into a CD.
 
@@ -16,9 +16,9 @@ After running 500 simulations over a 30 year period for a portfolio made up of 6
 
 Based on the Monte Carlo simulations and the distribution bar graph below it is more likely for the portfolio to be between $2.4 million(10th percentile) and $4 million(50th percentile) with an inital investment of $20k.  If the customer started with an initial investment of $30k it is more likely for the expected returns to be between $3.6 million and $6 million.  This assumption is made due to the probability distribution bell curve being closer to the 10 percentile line.
 
-![Monte Carlo Simulation](/Images/monte_carlo_sim.jpg)  
+![Monte Carlo Simulation](Images/monte_carlo_sim.jpg)  
 
-![probability distribution](/Images/probability_distribution.jpg)
+![probability distribution](Images/probability_distribution.jpg)
 
 Based on this information, if the customer wanted to take a 4% retirement withdrawal he/she could expect a yearly income of $96k with an initial investment of $30k and $144k with an initial investment of $30k.
 
