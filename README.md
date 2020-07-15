@@ -62,8 +62,6 @@ Use the Monte Carlo simulation data to answer the following questions:
 
 4. How would a `50%` increase in the initial investment amount affect the `4%` retirement withdrawal? In other words, what happens if the initial investment had been bigger?
 
-5. (Optional Challenge) Use the Monte Carlo data and calculate the cumulative returns at the `5%`, `50%`, and `95%` quartiles and plot this data as a line chart to see how the cumulative returns change over the life of the investment.
-
 ### Financial Report
 
 In this section, you will compile a financial report to demo your calculations to the Consumer App Team. The report should be written as a markdown file and include the following sections:
